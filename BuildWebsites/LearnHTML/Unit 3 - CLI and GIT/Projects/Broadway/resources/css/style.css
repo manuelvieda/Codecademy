@@ -1,14 +1,7 @@
 body {
-    background-color: black;
+    background-color: white;
     font-family: Helvetica;
     text-align: center;
-}
-
-#wrapper {
-    background-color: white;
-    width: 90%;
-    margin: 0 auto;
-    padding: 8px;
 }
 
 header, #design_nyc {
@@ -46,8 +39,6 @@ header nav a {
 }
 
 #design_nyc p {
-    font-size: 23px;
-    font-weight: bold;
     padding: 10px;
 }
 
