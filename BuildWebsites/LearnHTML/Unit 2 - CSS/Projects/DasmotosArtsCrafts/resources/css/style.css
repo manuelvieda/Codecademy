@@ -25,14 +25,14 @@ h1 {
     color: blue;
 }
 
-.green_bg {
+#brushes {
     background-color: mediumspringgreen;
 }
 
-.red_bg {
+#frames {
     background-color: lightcoral;
 }
 
-.blue_bg {
+#paint {
     background-color: skyblue;
 }
